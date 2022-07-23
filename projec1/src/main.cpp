@@ -1,7 +1,7 @@
 #include <Arduino.h>
 int red=14;
 int green=26;
-int yellow=35;
+int yellow=13;
 
 
 void setup() {
